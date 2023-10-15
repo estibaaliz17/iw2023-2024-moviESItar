@@ -7,4 +7,3 @@ Proyecto de prácticas de la asignatura Ingeniería Web del curso 2023/24.
 - JOHN MICHAELL RAMOS VERA
 
 ## Rúbrica de evaluación
-https://docs.google.com/spreadsheets/d/16KlCE4FxJv0YueNUh10iUahSXRLk4J7LlVrcD5BM25o/edit?usp=sharing
